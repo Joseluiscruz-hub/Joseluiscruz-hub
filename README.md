@@ -1,68 +1,46 @@
-# 🧠 José’s Lab: Creatividad Técnica + Investigación Ética
+# Hola, soy [Tu Nombre] 👋
 
-Bienvenido a mi espacio de experimentación, documentación y automatización. Aquí comparto proyectos que combinan hardware modding, scripting, seguridad digital, y diseño funcional. Cada repositorio refleja mi enfoque: soluciones limpias, reproducibles y con estilo.
+### 🚀 Desarrollador de Software | Especialista en Automatización y Android
 
----
-
-## 🛠️ Áreas de Especialidad
-
-- 🔧 **Hardware Modding Creativo**  
-  Transplantes imposibles, montajes con materiales cotidianos, y estética premium en dispositivos reciclados.
-
-- 🧪 **Automatización y Scripting**  
-  Launchers híbridos (.bat/.sh), flujos DeepFaceLive, limpieza ADB, y scripts para reproducibilidad técnica.
-
-- 🕵️‍♂️ **Investigación de Seguridad**  
-  Reportes éticos de vulnerabilidades, análisis de MFA bypass, trazas de red y documentación profesional.
-
-- 🎮 **Emulación y Cheats**  
-  Troubleshooting avanzado en RPCS3, integración de cheats, análisis de logs y corrección de YAML/XML.
-
-- 📱 **Optimización Android UI/UX**  
-  Mejora de interfaces, reducción de fricción visual, y diseño funcional para apps y launchers.
+Soy un desarrollador apasionado por la optimización de procesos logísticos y la creación de herramientas que hacen el trabajo más eficiente. Mi enfoque principal está en el desarrollo de aplicaciones móviles nativas para gestión de inventarios y la automatización de flujos de trabajo corporativos.
 
 ---
 
-## 📂 Repositorios Destacados
+### 🛠️ Tech Stack
 
-- `HP_Pavilion_AIO_Revival`  
-  Documentación visual y técnica del rescate de un AIO con panel incompatible. Incluye fotos, esquemas y solución creativa.
+**Desarrollo Móvil:**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-- `DeepFaceLive_Launcher`  
-  Script inteligente que detecta GPU, carga configuración, y ofrece menú interactivo para modelos y resolución.
+**Automatización & Scripting:**
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-- `MFA_Bypass_Report`  
-  Caso documentado de vulnerabilidad en Microsoft Authenticator, con trazas TLS, resumen técnico y seguimiento ético.
-
-- `ADB_Cleanup_Toolkit`  
-  Scripts para automatizar higiene digital en Android, eliminar adware y optimizar rendimiento.
+**Aprendiendo actualmente:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AI](https://img.shields.io/badge/AI_Agents-🤖-black?style=for-the-badge)
 
 ---
 
-## 📚 Filosofía de Trabajo
+### 🔭 Qué estoy haciendo ahora
 
-- 🧼 **Reproducibilidad ante todo**  
-  Prefiero reconstruir desde cero que parchear mal. Cada script busca claridad y replicabilidad.
-
-- 🎨 **Funcionalidad con estilo**  
-  No basta con que funcione: debe verse bien, integrarse al entorno y respetar la estética del usuario.
-
-- 🧠 **Investigación con propósito**  
-  Cada vulnerabilidad reportada, cada script creado, tiene una intención ética y técnica.
+* 📱 **Desarrollo Android:** Creando y mejorando aplicaciones para **Coca-Cola FEMSA**, enfocadas en:
+    * Gestión de Inventarios.
+    * Checklists de Verticalidad y Estibado.
+* ⚙️ **Automatización:** Desarrollando scripts en VBA y SAP para eliminar tareas repetitivas y asegurar la integridad de datos entre Excel y sistemas ERP.
+* 🧠 **I+D:** Experimentando con **Large Language Models (Claude, Gemini)** para integrarlos en flujos de desarrollo y dashboards con Python.
 
 ---
 
-## 🤝 Colaboraciones y Contacto
+### 📊 GitHub Stats
 
-Estoy abierto a colaborar en proyectos de modding, automatización, seguridad o diseño técnico.  
-Puedes contactarme vía GitHub Issues o por correo (joseluiscruz0001@orstedcorp001.onmicrosoft.com).
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight)
 
 ---
 
-## 🧭 En construcción…
+### ⚡ Fun Fact
 
-Este laboratorio está en constante evolución. Próximamente:
-- Documentación visual de mods
-- Scripts para launchers multiplataforma
-- Reportes técnicos de seguridad
-- Guías de automatización reproducible
+> *"The memes... the DNA of the soul."* — Monsoon.
+Cuando no estoy optimizando código o revisando checklists de estibado, probablemente estoy analizando la historia de **Metal Gear Rising: Revengeance**.
+
+---
+
+[📫 Contáctame en LinkedIn](Jose Luis Cruz)
