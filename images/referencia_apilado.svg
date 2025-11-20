@@ -1,0 +1,40 @@
+<svg width="320" height="90" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grupo 1 -->
+  <rect x="10" y="50" width="30" height="30" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="43" y="50" width="30" height="30" fill="white" stroke="black" stroke-width="2"/>
+  <line x1="10" y1="82" x2="73" y2="82" stroke="black" stroke-width="2"/>
+  <text x="41.5" y="88" font-size="18" text-anchor="middle" fill="black">1.0</text>
+
+  <!-- Grupo 2 -->
+  <rect x="85" y="50" width="30" height="30" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="118" y="50" width="30" height="30" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="101.5" y="27" width="30" height="23" fill="white" stroke="black" stroke-width="2"/>
+  <line x1="85" y1="82" x2="148" y2="82" stroke="black" stroke-width="2"/>
+  <text x="116.5" y="88" font-size="18" text-anchor="middle" fill="black">1.5</text>
+
+  <!-- Grupo 3 -->
+  <rect x="160" y="50" width="30" height="30" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="193" y="50" width="30" height="30" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="176.5" y="27" width="30" height="23" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="176.5" y="4" width="30" height="23" fill="white" stroke="black" stroke-width="2"/>
+  <line x1="160" y1="82" x2="223" y2="82" stroke="black" stroke-width="2"/>
+  <text x="191.5" y="88" font-size="18" text-anchor="middle" fill="black">2.0</text>
+
+  <!-- Grupo 4 -->
+  <rect x="235" y="50" width="30" height="30" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="268" y="50" width="30" height="30" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="251.5" y="27" width="30" height="23" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="251.5" y="4" width="30" height="23" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="251.5" y="-19" width="30" height="23" fill="white" stroke="black" stroke-width="2"/>
+  <line x1="235" y1="82" x2="298" y2="82" stroke="black" stroke-width="2"/>
+  <text x="266.5" y="88" font-size="18" text-anchor="middle" fill="black">2.5</text>
+
+  <!-- Grupo 5 (rojo) -->
+  <rect x="310" y="50" width="30" height="30" fill="red" stroke="black" stroke-width="2"/>
+  <rect x="343" y="50" width="30" height="30" fill="red" stroke="black" stroke-width="2"/>
+  <rect x="326.5" y="27" width="30" height="23" fill="red" stroke="black" stroke-width="2"/>
+  <rect x="326.5" y="4" width="30" height="23" fill="red" stroke="black" stroke-width="2"/>
+  <rect x="326.5" y="-19" width="30" height="23" fill="red" stroke="black" stroke-width="2"/>
+  <line x1="310" y1="82" x2="373" y2="82" stroke="black" stroke-width="2"/>
+  <text x="341.5" y="88" font-size="18" text-anchor="middle" fill="black">3.0</text>
+</svg>
