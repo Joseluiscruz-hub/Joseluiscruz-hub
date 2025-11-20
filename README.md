@@ -1,7 +1,7 @@
 # Hola, soy Jose Luis Cruz Prieto 👋
 
 ### 📱 Android Developer | Security Researcher | Automation Specialist
-**Ingeniero de Soluciones Logísticas @Coca-Cola FEMSA**
+**Ingeniero de Soluciones Logísticas **
 
 Soy un desarrollador que **construye soluciones reales**. Mi perfil combina la experiencia operativa en logística con el desarrollo de software nativo. Me especializo en crear aplicaciones móviles que digitalizan procesos industriales y en investigar la seguridad de los sistemas que usamos a diario.
 
