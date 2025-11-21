@@ -24,7 +24,7 @@ Soy un desarrollador que **construye soluciones reales**. Mi perfil combina la e
 
 > *Enfoque: Soluciones nativas (Kotlin) para eficiencia operativa y control de inventarios.*
 
-#### 🏭 App de Inventarios & Checklists (Coca-Cola FEMSA)
+#### 🏭 App de Inventarios & Checklists ()
 **Rol:** Lead Developer (Proyecto Interno)
 * **El Problema:** Procesos manuales en papel para la validación de seguridad (estibado/verticalidad) y conteo de stock.
 * **La Solución:** Ecosistema de aplicaciones Android nativas que validan datos en tiempo real y digitalizan el flujo de trabajo en planta.
