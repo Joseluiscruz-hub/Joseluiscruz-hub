@@ -1,68 +1,55 @@
 # Hola, soy Jose Luis Cruz Prieto 👋
 
-### 📱 Android Developer | Security Researcher | Automation Specialist
-**Ingeniero de Soluciones Logísticas **
+### 💻 Android Developer | Security Researcher | Data Automation Expert
+**Ingeniero de Soluciones Logísticas & Financieras**
 
-Soy un desarrollador que **construye soluciones reales**. Mi perfil combina la experiencia operativa en logística con el desarrollo de software nativo. Me especializo en crear aplicaciones móviles que digitalizan procesos industriales y en investigar la seguridad de los sistemas que usamos a diario.
+Soy un desarrollador híbrido que opera en la intersección entre la **Operación Real** y la **Ingeniería de Software**. Me especializo en resolver problemas críticos de negocio que requieren conocimientos profundos de código, integridad de datos y seguridad.
 
----
-
-### 🛠️ Tech Stack Principal
-
-**Desarrollo Móvil (Core):**
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![XML](https://img.shields.io/badge/XML-UI%2FUX-orange?style=for-the-badge)
-
-**Automatización & Scripting:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-Macro-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-Scripting-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-**Seguridad & Hardware:**
-![ADB](https://img.shields.io/badge/Android_ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Security_Research-Red?style=for-the-badge&logo=kalilinux&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-Modding-gray?style=for-the-badge)
+Desde rescatar migraciones fallidas de SAP hasta reportar vulnerabilidades en Microsoft, mi enfoque es siempre el mismo: **Ingeniería Inversa y Soluciones Escalables.**
 
 ---
 
-### 📲 Portfolio: Desarrollo Móvil
+### 🛠️ Tech Stack & Arsenal
 
-> *Enfoque: Soluciones nativas (Kotlin) para eficiencia operativa y control de inventarios.*
+**Core Development:**
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-Algorithms-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-#### 🏭 App de Inventarios & Checklists ()
-**Rol:** Lead Developer (Proyecto Interno)
-* **El Problema:** Procesos manuales en papel para la validación de seguridad (estibado/verticalidad) y conteo de stock.
-* **La Solución:** Ecosistema de aplicaciones Android nativas que validan datos en tiempo real y digitalizan el flujo de trabajo en planta.
-* **Impacto:** Reducción drástica de tiempos de captura y eliminación de errores de transcripción.
+**Enterprise & Data:**
+![SAP](https://img.shields.io/badge/SAP-Scripting-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
-#### 🛠️ [ADB_Cleanup_Toolkit](LINK_A_TU_REPO)
-**Rol:** Autor
-* Toolkit avanzado para optimización de dispositivos Android.
-* Scripts que interactúan directamente con el sistema vía **ADB (Android Debug Bridge)** para eliminar bloatware y mejorar privacidad sin root.
+**Security & Hardware:**
+![Cybersecurity](https://img.shields.io/badge/Security_Research-Red?style=for-the-badge&logo=kalilinux&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-Modding-gray?style=for-the-badge)
 
 ---
 
-### 🛡️ Investigación de Seguridad (Activa)
+### 🏆 Proyectos de Alto Impacto
 
-#### 🔒 Microsoft Authenticator MFA Vulnerability (Case 99279)
-> **Estatus:** 🟡 En revisión por MSRC (Microsoft Security Response Center).
->
-> Descubrimiento y reporte de una vulnerabilidad crítica en el flujo de autenticación multifactor.
-> * **Impacto:** Compromiso potencial de la integridad del MFA bajo condiciones específicas.
-> * **Divulgación Responsable:** De acuerdo con las políticas de *Coordinated Vulnerability Disclosure*, los detalles técnicos y el PoC se mantienen confidenciales hasta la resolución oficial por parte del proveedor.
-> * **ID de Reporte:** VULN-157991
+#### 💸 Rescate de Migración SAP S/4HANA (Data Engineering)
+> **Rol:** Lead Developer & Data Integrity Specialist
+> * **El Reto:** Fallo crítico en migración ERP que dejó **1 Millón de partidas** sin referencia y una deuda flotante de **+$800 Millones MXN**.
+> * **La Solución:** Desarrollo de algoritmos de saneamiento masivo y macros de compensación automática.
+> * **Resultado:** Recuperación del 100% de la cartera y estabilización del cierre financiero.
 
----
+#### 🛡️ Microsoft Authenticator MFA Vulnerability (Case 99279)
+> **Rol:** Security Researcher (Independent)
+> * **Hallazgo:** Descubrimiento de inconsistencia crítica en protocolos de autenticación multifactor.
+> * **Estatus:** 🟡 En revisión por MSRC (Microsoft Security Response Center).
+> * **ID:** VULN-157991 (Responsible Disclosure).
 
-### 🌟 Otros Proyectos Destacados
+#### 📱 Ecosystem Mobile: Inventarios & Seguridad
+> **Rol:** Android Lead Developer ()
+> * Desarrollo de suite de aplicaciones nativas **Kotlin**) para digitalizar procesos de almacén.
+> * Eliminación del uso de papel y reducción de tiempos de captura en un 80%.
 
-#### 🤖 [DeepFaceLive_Launcher](LINK_A_TU_REPO)
-> **Python & IA Automation**
-> Orquestador inteligente para **DeepFaceLive**. Automatiza la detección de GPU, gestión de entornos y selección de modelos neuronales para streaming e investigación de Computer Vision.
-
-#### 🖥️ [HP_Pavilion_AIO_Revival](LINK_A_TU_REPO)
-> **Hardware Modding & Ingeniería Inversa**
-> Documentación técnica sobre la adaptación de paneles LVDS y creación de controladores personalizados para rescatar hardware propietario incompatible.
+#### 🏦 Corporate Reconciliation Engine (VBA/Heurística)
+> **Rol:** Developer (Solicitud Corporativa)
+> * Script algorítmico solicitado por la Gerencia Corporativa para conciliación financiera compleja.
+> * Implementación de lógica de **"Ventanas de Tolerancia"** y arrays en memoria para cruce de transferencias bancarias, evitando duplicidad de saldos.
 
 ---
 
 ### ⚡ Fun Fact
-> *"Building the future and keeping the past alive."*
-Igual puedo diseñar una interfaz en XML para Android que soldar una controladora a una pantalla reciclada mientras escucho el OST de **Metal Gear Rising**.
+> *"The code is the easy part; understanding the problem is the real engineering."*
+Igual puedo programar un algoritmo de conciliación bancaria que procesa millones de pesos, que soldar una controladora a una pantalla reciclada (HP Revival Project) mientras escucho el OST de **Metal Gear Rising**.
 
 [📫 Contáctame en LinkedIn]()
