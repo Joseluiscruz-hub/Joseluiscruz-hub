@@ -5,7 +5,7 @@
 
 Soy un **Ingeniero de Soluciones Logísticas & Financieras** que opera en la intersección entre la **Operación Real** y la **Ingeniería de Software**. Me especializo en resolver problemas críticos de negocio que requieren conocimientos profundos de código, integridad de datos y seguridad ofensiva.
 
-Desde rescatar migraciones fallidas de SAP hasta reportar vulnerabilidades en Microsoft, mi enfoque es siempre el mismo: **Ingeniería Inversa y Soluciones Escalables**.
+Desde rescatar migraciones fallidas de SAP hasta revivir hardware desahuciado o reportar vulnerabilidades en Microsoft, mi enfoque es siempre el mismo: **Ingeniería Inversa y Soluciones Escalables**.
 
 ---
 
@@ -28,6 +28,12 @@ Desde rescatar migraciones fallidas de SAP hasta reportar vulnerabilidades en Mi
 * **La Solución:** Desarrollo de algoritmos de saneamiento masivo y macros de compensación automática (SAP Scripting + VBA).
 * **Resultado:** Recuperación del 100% de la cartera y estabilización del cierre financiero.
 
+### 🖥️ Ingeniería de Hardware: Proyecto "Phoenix AIO"
+**Rol:** Hardware Modder & Reverse Engineer
+* **El Reto:** Reparación de una **HP Pavilion AIO 27"** con display destruido y refacción descatalogada (EOL). Declarada "irreparable" por múltiples servicios técnicos.
+* **La Solución:** Investigación de datasheets para compatibilidad cruzada de voltaje y pines (LVDS/eDP). Transplante quirúrgico de un panel extraído de un monitor *slim* (HP M27f) adaptado a la carcasa original.
+* **Resultado:** Restauración total del equipo, superando la obsolescencia programada mediante análisis técnico profundo.
+
 ### 🛡️ Vulnerabilidad MFA Microsoft Authenticator
 **Rol:** Investigador de Seguridad (Independiente)
 * **Hallazgo:** Descubrimiento de inconsistencia crítica en protocolos de autenticación multifactor (Privilege Escalation).
@@ -39,18 +45,13 @@ Desde rescatar migraciones fallidas de SAP hasta reportar vulnerabilidades en Mi
 * Desarrollo de suite de aplicaciones **nativas (Kotlin + Jetpack Compose)** para digitalizar procesos de almacén.
 * Eliminación del uso de papel y reducción de tiempos de captura en un **80%**.
 
-### 🏦 Motor de Conciliación Corporativa
-**Rol:** Desarrollador (Solicitud Corporativa)
-* Script algorítmico diseñado para conciliación financiera compleja.
-* Implementación de lógica de **"Ventanas de Tolerancia"** y arrays en memoria para cruce de transferencias bancarias, evitando duplicidad de saldos.
-
 ---
 
 ## ⚡ Dato Curioso
 
-Igual puedo programar un algoritmo de conciliación bancaria que procesa millones de pesos, que soldar una controladora a una pantalla reciclada (**HP Revival Project**) mientras escucho el OST de *Metal Gear Rising*.
+Igual puedo programar un algoritmo de conciliación bancaria que procesa millones de pesos, que abrir un monitor sellado con una tarjeta de crédito para un transplante de hardware mientras escucho el OST de *Metal Gear Rising*.
 
 > *"Rules of Nature!"* ⚔️
 
 ---
-[![](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TU-USUARIO-AQUI)
+[![](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com
