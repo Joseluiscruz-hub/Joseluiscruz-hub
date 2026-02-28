@@ -54,4 +54,5 @@ Igual puedo programar un algoritmo de conciliación bancaria que procesa millone
 > *"Rules of Nature!"* ⚔️
 
 ---
-[![](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Luis%20Cruz%20Prieto-blue?style=for-the-badge&logo=linkedin)](https://mx.linkedin.com/in/jose-luis-cruz-prieto-9b622a279)
