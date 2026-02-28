@@ -1,58 +1,62 @@
-# Hola, soy Jose Luis Cruz Prieto 👋
-### 💻 Android Developer | Security Researcher | Automation Specialist
+# ⚡ Jose Luis Cruz Prieto
+### `Full-Stack Developer | Security Researcher | Automation Specialist`
 
-> *"El código es la parte fácil; entender el problema es la verdadera ingeniería."*
+> "Donde otros ven un sistema cerrado, yo veo un rompecabezas por resolver."
 
-Soy un **Ingeniero de Soluciones Logísticas & Financieras** que opera en la intersección entre la **Operación Real** y la **Ingeniería de Software**. Me especializo en resolver problemas críticos de negocio que requieren conocimientos profundos de código, integridad de datos y seguridad ofensiva.
-
-Desde rescatar migraciones fallidas de SAP hasta revivir hardware desahuciado o reportar vulnerabilidades en Microsoft, mi enfoque es siempre el mismo: **Ingeniería Inversa y Soluciones Escalables**.
+Soy un **Ingeniero de Soluciones** enfocado en la intersección de la **Operación Industrial** y el **Software de Misión Crítica**. Actualmente estudio Desarrollo de Software en la **UDEMEX** mientras optimizo procesos a gran escala en **Coca-Cola FEMSA**.
 
 ---
 
-## 🛠️ Pila Tecnológica y Arsenal
+## 🚀 Proyectos de Alto Impacto
 
-| Dominio | Tecnologías y Herramientas |
-| :--- | :--- |
-| **📱 Desarrollo Móvil** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=google-play&logoColor=white) |
-| **🏢 Empresas y Datos** | ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white) ![ABAP](https://img.shields.io/badge/ABAP-Cloud-0FAAFF?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Excel VBA](https://img.shields.io/badge/VBA-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white) |
-| **🛡️ Seguridad** | ![Security](https://img.shields.io/badge/MSRC-Researcher-F25022?style=flat&logo=microsoft&logoColor=white) ![Hacking](https://img.shields.io/badge/Ethical%20Hacking-Standard-black?style=flat) ![Network](https://img.shields.io/badge/Network-Analysis-blue?style=flat) |
-| **🔧 Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-ADT-2C2255?style=flat&logo=eclipse&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+### 🛡️ MSRC Case 99279: MFA Bypass Discovery
+**Rol:** Security Researcher (Independent)
+* **El Hallazgo:** Identificación de una inconsistencia crítica de escalación de privilegios en protocolos de **Microsoft Authenticator**.
+* **Estatus:** Documentación técnica enviada y en revisión bajo el ID `VULN-157991`.
+* **Impacto:** Reporte bajo divulgación responsable para fortalecer la seguridad de sistemas de autenticación multifactor.
 
----
+### 💸 Rescate SAP S/4HANA (Migration Recovery)
+**Rol:** Automation Architect
+* **El Reto:** Migración fallida con **1 millón de partidas** desalineadas y una deuda flotante de **+$1,000 Millones MXN**.
+* **La Solución:** Desarrollo de scripts avanzados en **VBA y SAP Scripting** para conciliación masiva y compensación de documentos.
+* **Resultado:** Recuperación del 100% de la integridad de datos y estabilización del flujo financiero en la planta Cuautitlán.
 
-## 🏆 Proyectos de Alto Impacto
-
-### 💸 Rescate de Migración SAP S/4HANA
-**Rol:** Desarrollador Principal y Especialista en Integridad de Datos
-* **El Reto:** Fallo crítico en migración ERP que dejó **1 Millón de partidas** sin referencia y una deuda flotante de **+$800 Millones MXN**.
-* **La Solución:** Desarrollo de algoritmos de saneamiento masivo y macros de compensación automática (SAP Scripting + VBA).
-* **Resultado:** Recuperación del 100% de la cartera y estabilización del cierre financiero.
-
-### 🖥️ Ingeniería de Hardware: Proyecto "Phoenix AIO"
-**Rol:** Hardware Modder & Reverse Engineer
-* **El Reto:** Reparación de una **HP Pavilion AIO 27"** con display destruido y refacción descatalogada (EOL). Declarada "irreparable" por múltiples servicios técnicos.
-* **La Solución:** Investigación de datasheets para compatibilidad cruzada de voltaje y pines (LVDS/eDP). Transplante quirúrgico de un panel extraído de un monitor *slim* (HP M27f) adaptado a la carcasa original.
-* **Resultado:** Restauración total del equipo, superando la obsolescencia programada mediante análisis técnico profundo.
-
-### 🛡️ Vulnerabilidad MFA Microsoft Authenticator
-**Rol:** Investigador de Seguridad (Independiente)
-* **Hallazgo:** Descubrimiento de inconsistencia crítica en protocolos de autenticación multifactor (Privilege Escalation).
-* **Estatus:** 🟡 En revisión por **MSRC** (Microsoft Security Response Center).
-* **ID:** `VULN-157991` (Reporte bajo Divulgación Responsable).
-
-### 📱 Ecosistema Móvil: Inventarios & Seguridad
+### 📱 SmartScan AI (FEMSA Inventario Pro)
 **Rol:** Lead Android Developer
-* Desarrollo de suite de aplicaciones **nativas (Kotlin + Jetpack Compose)** para digitalizar procesos de almacén.
-* Eliminación del uso de papel y reducción de tiempos de captura en un **80%**.
+* **Tecnología:** Desarrollo nativo con **Kotlin + Jetpack Compose**.
+* **Impacto:** Digitalización total de procesos de almacén, logrando una **reducción del 80%** en tiempos de captura y eliminación de papel.
+* **Estado:** ~80% de avance en implementación de suite móvil (Octubre 2025).
 
 ---
 
-## ⚡ Dato Curioso
+## 🛠️ El Arsenal Técnico
 
-Igual puedo programar un algoritmo de conciliación bancaria que procesa millones de pesos, que abrir un monitor sellado con una tarjeta de crédito para un transplante de hardware mientras escucho el OST de *Metal Gear Rising*.
-
-> *"Rules of Nature!"* ⚔️
+| Dominio | Herramientas y Lenguajes |
+| :--- | :--- |
+| **Mobile** | `Kotlin` `Jetpack Compose` `Android Studio` `MVVM` |
+| **Enterprise** | `Python` `SAP Scripting (ECC/S4HANA)` `VBA Expert` `SQL` |
+| **Security** | `Reverse Engineering` `Network Analysis` `MFA Pentesting` |
+| **Hardware** | `Display Transplant (LVDS/eDP)` `Hardware Modding` `PCB Analysis` |
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Luis%20Cruz%20Prieto-blue?style=for-the-badge&logo=linkedin)](https://mx.linkedin.com/in/jose-luis-cruz-prieto-9b622a279)
+## 🔧 Ingeniería de Campo: Proyecto "Phoenix"
+No solo escribo código; entiendo el silicio. Logré la restauración de una **HP Pavilion AIO** declarada irreparable mediante un **transplante quirúrgico de panel** (HP M27f) adaptando voltajes y señales de video tras un análisis profundo de datasheets y compatibilidad eDP.
+
+---
+
+## ⚡ Quick Bits
+* **Current Setup:** ASUS TUF Gaming F15 (RTX 2050) & HP EliteBook 840 G11.
+* **Hobby:** Aprendiendo Piano (Saint-Saëns & Kanye West).
+* **Vibe:** Escuchando el OST de *Metal Gear Rising* mientras reparo hardware con una tarjeta de crédito.
+
+---
+
+<p align="center">
+  <a href="https://mx.linkedin.com/in/jose-luis-cruz-prieto-9b622a279">
+    <img src="https://img.shields.io/badge/LinkedIn-Jose%20Luis%20Cruz%20Prieto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Joseluiscruz-hub">
+    <img src="https://img.shields.io/badge/GitHub-Joseluiscruz--hub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
