@@ -1,18 +1,29 @@
- 
-# 🏅José Luis Cruz Prieto
-### Full-Stack Developer | Security Researcher | Automation Specialist
+# 🏅 José Luis Cruz Prieto
 
-Ingeniero de Soluciones con experiencia en automatización de procesos críticos, desarrollo de software y fortalecimiento de seguridad tecnológica en entornos industriales y empresariales.
+**Full-Stack Developer** | **Investigador de Seguridad** | **Especialista en Automatización**
 
-Actualmente curso Desarrollo de Software en la UDEMEX y participo en iniciativas de optimización operativa en Coca-Cola FEMSA, con enfoque en confiabilidad, escalabilidad y continuidad del negocio.
+🚀 Ingeniero de soluciones con comprobada experiencia en recuperación de operaciones críticas, automatización a gran escala y descubrimiento de vulnerabilidades en infraestructuras empresariales y cloud. Especializado en entornos SAP, desarrollo mobile, integración de procesos de campo y fortalecimiento de la seguridad TI.
+
+📚 Actualmente curso Desarrollo de Software en UDEMEX y participo en proyectos estratégicos de digitalización y resiliencia operativa para Coca-Cola FEMSA.
+
+[LinkedIn](#) • [Portafolio](#) • Contacto: joseluis.cruz@joseluiscruz.me
+
+---
+
+## 🏆 Logros Destacados
+
+- 🔐 Descubrimiento y documentación de vulnerabilidades críticas (bypass de MFA y escalada de privilegios) presentadas a Microsoft MSRC.
+- 💸 Recuperación de $800M MXN en cierre financiero mediante ingeniería inversa y automatización de conciliaciones en SAP S/4HANA.
+- 📱 Digitalización y automatización de inventarios industriales, reduciendo en 80% los tiempos de captura en operaciones logísticas.
+- 🏆 Única intervención autodidacta en eventos de alta crisis, generando soluciones técnicas sin recurrir a consultoras externas.
 
 ---
 
 ## ✔️ Perfil Profesional
 
-- Diseño e implementación de soluciones de software para procesos de misión crítica.
-- Automatización de operaciones de alto volumen en ecosistemas SAP y entornos corporativos.
-- Investigación de seguridad aplicada, con enfoque en autenticación multifactor y análisis técnico.
+- Diseño e implementación de soluciones de software para procesos de misión crítica y operación continua.
+- Automatización de operaciones de alto volumen en ecosistemas SAP y entornos industriales.
+- Investigación de seguridad aplicada, con enfoque en autenticación multifactor y análisis técnico forense.
 - Integración de desarrollo móvil y modernización de procesos de campo.
 
 ---
@@ -20,29 +31,29 @@ Actualmente curso Desarrollo de Software en la UDEMEX y participo en iniciativas
 ## 💻 Experiencia Relevante
 
 ### Microsoft Security Response Center (MSRC) — Investigación Independiente
-**Caso 99279 | ID técnico: VULN-157991**
+**Caso 99279 | VULN-157991**
 
-- Identificación y documentación de una inconsistencia de escalación de privilegios en flujos asociados a Microsoft Authenticator.
+- Identificación y documentación de una vulnerabilidad crítica de escalada de privilegios en flujos MFA asociados a Microsoft Authenticator.
 - Entrega formal bajo divulgación responsable y seguimiento en proceso de revisión.
-- Contribución orientada a elevar la robustez de mecanismos MFA.
+- Contribución orientada a incrementar la robustez de los mecanismos de autenticación.
 
-### 💡Coca-Cola FEMSA — Recuperación de Migración SAP S/4HANA
-**Rol: Automation Architect**
+### Coca-Cola FEMSA — Recuperación de Migración SAP S/4HANA  
+**Rol: Arquitecto de Automatización**
 
-- Intervención en una migración con más de 1 millón de partidas desalineadas.
+- Rescate de migración con más de 1 millón de partidas desalineadas y $800M MXN en “deuda flotante”.
 - Desarrollo de automatizaciones en VBA y SAP Scripting para conciliación y compensación masiva.
-- Restablecimiento de integridad de datos y estabilización de flujo financiero en operación industrial.
+- Restablecimiento de la integridad de datos y desbloqueo del flujo financiero empresarial.
 
-### SmartScan AI (FEMSA Inventario Pro)
+### SmartScan AI (Inventario Pro — FEMSA)  
 **Rol: Lead Android Developer**
 
-- Desarrollo de solución móvil nativa con Kotlin y Jetpack Compose.
-- Digitalización integral de inventarios operativos.
-- Reducción aproximada del 80% en tiempos de captura y mejora en trazabilidad de información.
+- Desarrollo de solución móvil nativa en Kotlin + Jetpack Compose.
+- Digitalización integral del proceso de inventario y logística industrial.
+- Reducción aproximada del 80% en los tiempos de captura y mejora en la trazabilidad de información.
 
 ---
 
-## Competencias Técnicas
+## 💡 Competencias Técnicas
 
 - Desarrollo móvil: Kotlin, Jetpack Compose, Android Studio, arquitectura MVVM.
 - Automatización empresarial: Python, SAP Scripting (ECC/S4HANA), VBA, SQL.
@@ -51,6 +62,17 @@ Actualmente curso Desarrollo de Software en la UDEMEX y participo en iniciativas
 
 ---
 
-## ⚡ Enfoque de Valor
+## 🌟 Enfoque de Valor
 
 Combino visión de negocio, disciplina técnica y ejecución práctica para transformar operaciones complejas en sistemas más seguros, eficientes y sostenibles.
+
+---
+
+## 🌎 Idiomas
+
+- Español (nativo)
+- Inglés (profesional/intermedio-alto)
+
+---
+
+> Algunos proyectos y detalles han sido modificados o resumidos para proteger información confidencial de clientes y organizaciones.
