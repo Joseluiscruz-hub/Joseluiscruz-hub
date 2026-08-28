@@ -6,7 +6,7 @@ Ingeniero de soluciones y desarrollador autodidacta enfocado en transformar prob
 
 He trabajado en automatización de procesos SAP, recuperación de operaciones financieras, desarrollo móvil industrial, plataformas web full-stack e investigación independiente de comportamientos anómalos en sistemas de autenticación.
 
-Actualmente curso la carrera de **Desarrollo de Software en UDEMEX** y participo en iniciativas de digitalización y resiliencia operativa relacionadas con Coca-Cola FEMSA.
+Actualmente curso la carrera de **Desarrollo de Software en UDEMEX** y participo en iniciativas de digitalización industrial y resiliencia operativa.
 
 [LinkedIn](#) · [Portafolio](#) · [Proyectos](#)  
 📧 **Contacto:** joseluis.cruz@joseluiscruz.me
