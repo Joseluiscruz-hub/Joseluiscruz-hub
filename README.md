@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Developer workspace animation">
+<img src="./assets/cyber-profile-banner.webp" width="100%" alt="Cyber technology workspace banner">
 
 # 👨‍💻 José Luis Cruz Prieto
 
@@ -17,7 +17,7 @@
 
 ![Freelance](https://img.shields.io/badge/💼_Freelance-Disponible-16A34A?style=for-the-badge)
 ![Remote](https://img.shields.io/badge/🌎_Remoto-Preferido-2563EB?style=for-the-badge)
-![Collaborations](https://img.shields.io/badge/🤝_Colaboraciones-Abierto-F59E0B?style=for-the-badge)
+![Collaborations](https://img.shields.io/badge/🤝_Colaboraciones-Abierto-7C3AED?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍_México-Disponible-7C3AED?style=for-the-badge)
 
 </div>
@@ -231,17 +231,17 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Joseluiscruz-hub&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="GitHub statistics">
-<img src="https://streak-stats.demolab.com?user=Joseluiscruz-hub&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="GitHub streak">
+<img src="https://github-readme-stats.vercel.app/api?username=Joseluiscruz-hub&show_icons=true&hide_border=true&locale=es&bg_color=070B17&title_color=7C3AED&text_color=C9D1D9&icon_color=00D4FF" width="48%" alt="GitHub statistics">
+<img src="https://streak-stats.demolab.com?user=Joseluiscruz-hub&hide_border=true&locale=es&background=070B17&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" alt="GitHub streak">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseluiscruz-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" alt="Most used languages">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joseluiscruz-hub&theme=tokyo-night&hide_border=true" width="55%" alt="Contribution activity">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseluiscruz-hub&layout=compact&hide_border=true&langs_count=8&bg_color=070B17&title_color=7C3AED&text_color=C9D1D9" width="42%" alt="Most used languages">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joseluiscruz-hub&bg_color=070B17&color=C9D1D9&line=7C3AED&point=00D4FF&area=true&hide_border=true" width="55%" alt="Contribution activity">
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Joseluiscruz-hub&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="95%" alt="GitHub trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=Joseluiscruz-hub&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="95%" alt="GitHub trophies">
 
 </div>
 
