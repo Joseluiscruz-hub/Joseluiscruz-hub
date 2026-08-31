@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyber-profile-banner.webp" width="100%" alt="Cyber technology workspace banner">
+<img src="./assets/neural-banner-animated.webp" width="100%" alt="Animated neural network brain banner">
 
 # 👨‍💻 José Luis Cruz Prieto
 
