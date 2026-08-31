@@ -25,7 +25,7 @@ Conecto operación industrial con software. Analizo el proceso, armo la automati
 
 ### Terracota: SAP Finanzas
 
-Migración S/4HANA de finanzas en una multinacional de consumo. **6 meses, 5 fases de recuperación** más macros de compensación automática (partidas abiertas → documento de compensación). Volumen del cierre ~**800 MDP**. Un corte interno: **410,002 documentos** (RH / RT / X1) y ~**310 MDP** cuadrados a **$0.00**. El resto de fases y sociedades no se publica.
+Migración S/4HANA. Referencias de pago llegaron en ceros: reconstruí el cruce cargo/abono contra extractos y reclasifiqué. Luego QA a SQ por ruta (cargo a abono, cuentas a cero) y compensación RH / RT / X1. Macros de ruta de ~8 h a ~3 h. Volumen del cierre ~**800 MDP**. Un corte interno: **410,002 documentos** y ~**310 MDP** a **$0.00**. Cliente y planta no se nombran.
 
 </td>
 <td width="50%" valign="top">
