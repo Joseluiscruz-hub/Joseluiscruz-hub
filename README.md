@@ -3,19 +3,24 @@
 
   <h1>José Luis Cruz Prieto</h1>
 
-  <p><strong>Full-Stack Development · Automation · SAP / Operations · Security Research</strong></p>
-  <p>Construyo software para procesos reales: web, mobile, automatización y sistemas de operación.</p>
-  <p>Cuautitlán Izcalli, México</p>
+  <p><strong>Industrial Software · SAP Automation · Mobile Operations · Security Research</strong></p>
+  <p>Construyo software para procesos reales de planta: EPP, inventario físico, CMMS, SAP GUI scripting, conciliación y trazabilidad operativa.</p>
+  <p>Cuautitlán Izcalli, México · Disponible para remoto, freelance y proyectos industriales</p>
 
   <p>
     <a href="mailto:joseluis.cruz@joseluiscruz.me"><img src="https://img.shields.io/badge/Email-joseluis.cruz@joseluiscruz.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <img src="https://img.shields.io/badge/Disponible-Remoto_%26_Freelance-2EA44F?style=for-the-badge" alt="Disponible para remoto y freelance">
+    <img src="https://img.shields.io/badge/Enfoque-Operaciones_Industriales-0F766E?style=for-the-badge" alt="Operaciones industriales">
   </p>
 </div>
 
-Construyo software cuando el proceso real no cabe en una solución estándar: desde conciliaciones SAP y automatización operativa hasta aplicaciones web, mobile y herramientas de investigación técnica.
+---
 
-Mi forma de trabajar es simple: **entender el proceso, encontrar dónde se rompe y construir la capa que falta hasta que funcione en operación**.
+## Lo que hago
+
+Construyo la capa de software que falta cuando el proceso real no cabe en una solución estándar. El trabajo suele empezar donde se rompe la operación: inventarios que no cuadran, controles en Excel, SAP sin dato útil, solicitudes en WhatsApp o capturas que cuestan dinero.
+
+Mi forma de trabajar es simple: **entender el proceso, encontrar dónde se rompe y construir hasta que funcione en operación**. No solo entrego pantallas; cierro el ciclo entre el usuario, el dato, la trazabilidad y el sistema que registra la operación.
 
 ---
 
@@ -27,10 +32,10 @@ No es un CV de badges. Son sistemas, repos y demos que corren.
 <tr>
 <td width="50%" valign="top">
 
-### Asset Guard
-**CMMS de flota · Angular 19 + Firebase + Gemini**
+### AssetGuard Corporate Edition Advanced
+**CMMS de flota · Angular 19 · Firebase · Gemini**
 
-Taller, SMP, detalle de activo y KPIs calculados desde datos reales de la aplicación.
+Taller, mantenimiento, detalle de activo y KPIs calculados desde datos reales de la aplicación.
 
 [Demo](https://joseluiscruz-hub.github.io/ASSET-GUARD-Corporate-Edition-Advanced/) · [Código](https://github.com/Joseluiscruz-hub/ASSET-GUARD-Corporate-Edition-Advanced)
 
@@ -52,32 +57,34 @@ readonly fleetAvailability = computed(() => {
 </td>
 <td width="50%" valign="top">
 
-### Control de EPP
-**Next.js + Firebase**
+### AssetGuard EPP
+**Next.js 15 · React 19 · Firebase · Cloud Run · SAP/MIGO**
 
-Kiosco, inventario, vigencias, reglas operativas y trazabilidad para entrega de equipo de protección personal.
+Control de EPP con kiosko, inventario, dotaciones, presupuesto, trazabilidad y exportación para baja en SAP.
 
-[Demo](https://control-de-epp.vercel.app) · [Código](https://github.com/Joseluiscruz-hub/control-de-epp)
+Piloto de 2 meses en planta de embotelladora en México: **~543 colaboradores**, operación estable sin incidentes críticos. Solicitud, stock y SAP en un solo flujo; la exportación alimenta un layout MIGO (material, centro de costo, cantidad, UME, colaborador, área, motivo) con verificación antes de contabilizar.
+
+[Repositorio](https://github.com/Joseluiscruz-hub/control-de-epp)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Inventory Scanner Pro
-**Android · Kotlin + Compose + Room**
+### InventoryScannerPro
+**Android · Kotlin · Compose · Room · Firebase**
 
-Captura física con QR, SAP, TPM, operación online/offline y comparación de inventario en tiempo real.
+Inventario físico en planta: escaneo QR, captura offline-first, comparación contra inventario de referencia exportado desde SAP y reportes operativos.
 
-🔒 **Repositorio privado** · arquitectura y demo disponibles bajo solicitud.
+🔒 **Repositorio privado** · arquitectura y demo bajo solicitud.
 
 </td>
 <td width="50%" valign="top">
 
 ### Punto de venta
-**Aplicación de caja e inventario**
+**Caja e inventario**
 
-Catálogo, existencias y flujo de venta para operación de abarrotes.
+Catálogo, existencias y flujo de venta para operación comercial pequeña.
 
 [Demo](https://joseluiscruz-hub.github.io/Punto-de-venta/) · [Código](https://github.com/Joseluiscruz-hub/Punto-de-venta)
 
@@ -85,17 +92,13 @@ Catálogo, existencias y flujo de venta para operación de abarrotes.
 </tr>
 </table>
 
-También: [Finiquito Pro MX](https://github.com/Joseluiscruz-hub/Finiquito-Pro-MX-v2) · [Mi Tiendita](https://mitiendita-ashen.vercel.app)
+También: [Finiquito Pro MX](https://github.com/Joseluiscruz-hub/Finiquito-Pro-MX-v2) · [Mi Tiendita](https://mitiendita-ashen.vercel.app) · **Orsted Corp lab** — tenant Microsoft 365 E5 propio de desarrollo y validación (3 años)
 
 ---
 
-## Featured Case Study · Terracota
+## Caso destacado · Terracota · SAP Finanzas · Migración S/4HANA
 
-### SAP Finanzas · Migración S/4HANA
-
-**De montacargas a un cierre de ~800 MDP.**
-
-Cliente y planta no se nombran. Seis meses, cinco fases. El reto no fue simplemente “hacer una macro”: parte del dato necesario para conciliar no existía de forma utilizable en SAP y había que reconstruirlo.
+**De montacargas a un cierre de ~800 MDP.** Cliente y planta no se nombran. Seis meses, cinco fases. El reto no fue solo automatizar: parte del dato necesario para conciliar no existía de forma utilizable en SAP y había que reconstruirlo.
 
 ```mermaid
 flowchart TD
@@ -108,15 +111,15 @@ flowchart TD
 
 | Fase | Qué hice | Resultado |
 |---|---|---|
-| 1 | Pago llega a SAP con referencia en ceros. Recuperar la referencia desde el extracto. | Se obtiene una llave útil para el cruce |
-| 2 | Matching cargo/abono por fecha, importe y ventana de tolerancia | Contrapartida localizable |
-| 3 | Reemplazar la referencia incorrecta y reclasificar | Documento utilizable dentro del flujo SAP |
+| 1 | Pago llega a SAP con referencia en ceros. Recuperar la referencia desde el extracto. | Llave útil para el cruce |
+| 2 | Matching cargo/abono por fecha, importe y tolerancia | Contrapartida localizable |
+| 3 | Reemplazar referencia incorrecta y reclasificar | Documento utilizable en el flujo SAP |
 | 4 | Por ruta: cargos QA contra abonos SQ | Cuenta de ruta en cero |
 | 5 | Compensación RH / RT / X1 | Un corte: **410,002 docs**, **~310 MDP a $0.00** |
 
-Macros de ruta: de **~8 h a ~3 h**. El resto de las fases y artefactos del cliente no se publican.
+Macros de ruta: de **~8 h a ~3 h**. El resto de fases y artefactos del cliente no se publican.
 
-El principio detrás del motor de cruce, sin exponer el workbook del cliente:
+Principio del motor de cruce (sin exponer el workbook del cliente):
 
 ```text
 exactos primero (tolerancia chica)
@@ -134,17 +137,17 @@ si no entra en tolerancia → rollback, no pintar falso verde
 
 Investigación de más de 10 meses sobre comportamiento de sesión e identidad en Microsoft Entra ID, con evidencia de red mediante pcap y Fiddler.
 
-MSRC cerró el caso como *expected behavior* el **4 de diciembre de 2025**. No publico PoC ni material sensible en este repositorio.
+MSRC cerró el caso como *expected behavior* el **4 de diciembre de 2025**. No publico PoC ni material sensible en este perfil.
 
 ---
 
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,react,kotlin,androidstudio,python,firebase,azure,vscode,git,github,githubactions&theme=dark" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,react,kotlin,androidstudio,python,firebase,azure,gcp,docker,vscode,git,github,githubactions&theme=dark" alt="Stack">
 </div>
 
-<p align="center">TypeScript · Angular · Next.js · Kotlin · Python · VBA · SAP GUI Scripting · Power BI · Firebase · Azure</p>
+<p align="center">TypeScript · Angular · Next.js · React · Kotlin · Jetpack Compose · Firebase · Google Cloud Run · Azure · Python · VBA · SAP GUI Scripting · Power BI · GitHub Actions</p>
 
 ---
 
@@ -159,5 +162,5 @@ MSRC cerró el caso como *expected behavior* el **4 de diciembre de 2025**. No p
 
 <div align="center">
   <p><strong>Convierto procesos rotos en software que sí funciona en operación.</strong></p>
-  <p><a href="mailto:joseluis.cruz@joseluiscruz.me">Hablemos →</a></p>
+  <p><a href="mailto:joseluis.cruz@joseluiscruz.me">joseluis.cruz@joseluiscruz.me</a></p>
 </div>
