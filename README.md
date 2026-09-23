@@ -144,7 +144,9 @@ MSRC cerró el caso como *expected behavior* el **4 de diciembre de 2025**. No p
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,react,kotlin,androidstudio,python,firebase,azure,gcp,docker,vscode,git,github,githubactions&theme=dark" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,react,kotlin,androidstudio,python,firebase&theme=dark" alt="Stack fila 1">
+  <br>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,vscode,git,github,githubactions&theme=dark" alt="Stack fila 2">
 </div>
 
 <p align="center">TypeScript · Angular · Next.js · React · Kotlin · Jetpack Compose · Firebase · Google Cloud Run · Azure · Python · VBA · SAP GUI Scripting · Power BI · GitHub Actions</p>
@@ -154,9 +156,17 @@ MSRC cerró el caso como *expected behavior* el **4 de diciembre de 2025**. No p
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joseluiscruz-hub&show_icons=true&hide_border=true&locale=es&bg_color=070B17&title_color=CE1126&text_color=C9D1D9&icon_color=00D4FF" height="160" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseluiscruz-hub&layout=compact&hide_border=true&langs_count=6&bg_color=070B17&title_color=CE1126&text_color=C9D1D9" height="160" alt="Lenguajes más usados">
+  <a href="https://github.com/Joseluiscruz-hub">
+    <img src="https://github-readme-stats.vercel.app/api?username=Joseluiscruz-hub&show_icons=true&hide_border=true&bg_color=070B17&title_color=CE1126&text_color=C9D1D9&icon_color=00D4FF&cache_seconds=86400" alt="GitHub stats" width="420" />
+  </a>
+  <a href="https://github.com/Joseluiscruz-hub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseluiscruz-hub&layout=compact&hide_border=true&langs_count=6&bg_color=070B17&title_color=CE1126&text_color=C9D1D9&cache_seconds=86400" alt="Lenguajes más usados" width="320" />
+  </a>
 </div>
+
+<!-- Si las cards siguen en blanco: el servicio vercel.app a veces falla. Alternativa:
+https://github-readme-stats.anuraghazra1.vercel.app/api?username=Joseluiscruz-hub&show_icons=true&hide_border=true&bg_color=070B17&title_color=CE1126&text_color=C9D1D9&icon_color=00D4FF
+-->
 
 ---
 
