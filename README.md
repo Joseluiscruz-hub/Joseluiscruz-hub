@@ -60,9 +60,11 @@ readonly fleetAvailability = computed(() => {
 ### AssetGuard EPP
 **Next.js 15 · React 19 · Firebase · Cloud Run · SAP/MIGO**
 
-Control de EPP con kiosko, inventario, dotaciones, presupuesto, trazabilidad y exportación de layout para baja en SAP.
+Control de EPP con kiosco, inventario, dotaciones, presupuesto, trazabilidad y exportación de layout para baja en SAP.
 
-Piloto de 2 meses en una operación de manufactura en México, con más de 500 colaboradores. La solución operó de forma estable durante el periodo de validación. Solicitud, disponibilidad de stock y registro SAP en un solo flujo; la exportación alimenta un layout MIGO (material, centro de costo, cantidad, UME, colaborador, área, motivo) con verificación antes de contabilizar.
+Piloto de 2 meses en una operación de manufactura en México con más de 500 colaboradores. La solución operó de forma estable durante la validación.
+
+Centraliza solicitud, disponibilidad de stock y preparación del registro SAP. Genera un layout MIGO con material, centro de costo, cantidad, UME, colaborador, área y motivo; incluye validación previa a la contabilización.
 
 [Repositorio](https://github.com/Joseluiscruz-hub/control-de-epp)
 
@@ -102,9 +104,9 @@ También: [Finiquito Pro MX](https://github.com/Joseluiscruz-hub/Finiquito-Pro-M
 
 ```mermaid
 flowchart TD
-  A[1. Extractos bancarios] --> B[2. Parsear referencia real]
-  B --> C[3. Cruzar cargo / abono vs SAP]
-  C --> D[4. QA a SQ por ruta<br/>saldo a cero]
+  A[1. Extractos bancarios] --> B[2. Extraer referencia real]
+  B --> C[3. Cruzar cargo / abono contra SAP]
+  C --> D[4. Conciliar QA vs SQ por ruta<br/>saldo a cero]
   D --> E[5. Compensar RH / RT / X1]
   E --> F[Cierre ~800 MDP]
 ```
@@ -128,6 +130,10 @@ misma ventana de fechas
 mismo signo
 si no entra en tolerancia → rollback, no pintar falso verde
 ```
+
+
+¿Necesitas automatizar una conciliación, un control de inventario o un proceso SAP que hoy vive en Excel?  
+[Escríbeme](mailto:joseluis.cruz@joseluiscruz.me) para revisar el proceso.
 
 ---
 
