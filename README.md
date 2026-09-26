@@ -142,6 +142,8 @@ si no entra en tolerancia → rollback, no pintar falso verde
 
 - **Security research · MSRC 99279:** investigación de más de 10 meses sobre comportamiento de sesión e identidad en Microsoft Entra ID (evidencia de red con pcap y Fiddler). MSRC cerró el caso como *expected behavior* el 4 de diciembre de 2025. No se publican PoC ni materiales sensibles en este perfil.
 
+Lab: tenant E5 propio (Orsted Corp) para desarrollo y para publicar demos sin marca del cliente.
+
 ---
 
 <div align="center">
