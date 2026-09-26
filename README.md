@@ -3,7 +3,7 @@
 
   <h1>José Luis Cruz Prieto</h1>
 
-  <p><strong>Industrial Software · SAP Automation · Mobile Operations</strong></p>
+  <p><strong>Automatización SAP · Software de planta · FI post-S/4HANA</strong></p>
   <p>Construyo software para procesos reales de planta: EPP, inventario físico, CMMS, SAP GUI scripting, conciliación y trazabilidad operativa.</p>
   <p>Cuautitlán Izcalli, México · Disponible para remoto, freelance y proyectos industriales</p>
 
