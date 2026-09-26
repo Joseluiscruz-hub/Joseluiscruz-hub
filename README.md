@@ -3,7 +3,7 @@
 
   <h1>José Luis Cruz Prieto</h1>
 
-  <p><strong>Industrial Software · SAP Automation · Mobile Operations · Security Research</strong></p>
+  <p><strong>Industrial Software · SAP Automation · Mobile Operations</strong></p>
   <p>Construyo software para procesos reales de planta: EPP, inventario físico, CMMS, SAP GUI scripting, conciliación y trazabilidad operativa.</p>
   <p>Cuautitlán Izcalli, México · Disponible para remoto, freelance y proyectos industriales</p>
 
@@ -71,7 +71,7 @@ Centraliza solicitud, disponibilidad de stock y preparación del registro SAP. G
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### InventoryScannerPro
 **Android · Kotlin · Compose · Room · Firebase**
@@ -81,26 +81,16 @@ Inventario físico en planta: escaneo QR, captura offline-first, comparación co
 🔒 **Repositorio privado** · arquitectura y demo bajo solicitud.
 
 </td>
-<td width="50%" valign="top">
-
-### Punto de venta
-**Caja e inventario**
-
-Catálogo, existencias y flujo de venta para operación comercial pequeña.
-
-[Demo](https://joseluiscruz-hub.github.io/Punto-de-venta/) · [Código](https://github.com/Joseluiscruz-hub/Punto-de-venta)
-
-</td>
 </tr>
 </table>
 
-También: [Finiquito Pro MX](https://github.com/Joseluiscruz-hub/Finiquito-Pro-MX-v2) · [Mi Tiendita](https://mitiendita-ashen.vercel.app) · **Orsted Corp lab** — tenant Microsoft 365 E5 propio de desarrollo y validación (3 años)
+También: **Orsted Corp lab** — tenant Microsoft 365 E5 propio de desarrollo y validación (3 años) · Otros: proyectos personales (punto de venta, finiquitos)
 
 ---
 
 ## Caso destacado · Terracota · SAP Finanzas · Migración S/4HANA
 
-**De montacargas a construir automatización para un cierre de ~800 MDP.** Cliente y planta no se nombran. Seis meses, cinco fases. El reto no fue solo automatizar: parte del dato necesario para conciliar no existía de forma utilizable en SAP y había que reconstruirlo.
+**De montacargas a construir automatización para el cierre.** Cliente y planta no se nombran. Seis meses, cinco fases. El reto no fue solo automatizar: parte del dato necesario para conciliar no existía de forma utilizable en SAP y había que reconstruirlo.
 
 ```mermaid
 flowchart TD
@@ -108,7 +98,7 @@ flowchart TD
   B --> C[3. Cruzar cargo / abono contra SAP]
   C --> D[4. Conciliar QA vs SQ por ruta<br/>saldo a cero]
   D --> E[5. Compensar RH / RT / X1]
-  E --> F[Cierre ~800 MDP]
+  E --> F[Cierre]
 ```
 
 | Fase | Qué hice | Resultado |
@@ -117,7 +107,7 @@ flowchart TD
 | 2 | Matching cargo/abono por fecha, importe y tolerancia | Contrapartida localizable |
 | 3 | Reemplazar referencia incorrecta y reclasificar | Documento utilizable en el flujo SAP |
 | 4 | Por ruta: cargos QA conciliados contra abonos SQ | Saldo de la ruta llevado a cero |
-| 5 | Compensación RH / RT / X1 | En un corte: **410,002 documentos** conciliados; aproximadamente **310 MDP** llevados a saldo cero |
+| 5 | Compensación RH / RT / X1 | En un corte: **410,002 documentos** conciliados y llevados a saldo cero |
 
 Macros de ruta: de **~8 h a ~3 h**. El resto de fases y artefactos del cliente no se publican.
 
@@ -137,16 +127,6 @@ si no entra en tolerancia → rollback, no pintar falso verde
 
 ---
 
-## Security Research
-
-### Microsoft Security Response Center · MSRC 99279
-
-Investigación de más de 10 meses sobre comportamiento de sesión e identidad en Microsoft Entra ID, con evidencia de red mediante pcap y Fiddler.
-
-MSRC cerró el caso como *expected behavior* el **4 de diciembre de 2025**. No se publican PoC ni materiales sensibles en este perfil.
-
----
-
 ## Stack
 
 <div align="center">
@@ -157,6 +137,10 @@ MSRC cerró el caso como *expected behavior* el **4 de diciembre de 2025**. No s
 
   TypeScript · Angular · Next.js · React · Kotlin · Jetpack Compose · Firebase · Google Cloud Run · Azure · Python · VBA · SAP GUI Scripting · Power BI · GitHub Actions
 </div>
+
+---
+
+- **Security research · MSRC 99279:** investigación de más de 10 meses sobre comportamiento de sesión e identidad en Microsoft Entra ID (evidencia de red con pcap y Fiddler). MSRC cerró el caso como *expected behavior* el 4 de diciembre de 2025. No se publican PoC ni materiales sensibles en este perfil.
 
 ---
 
