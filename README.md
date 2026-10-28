@@ -146,11 +146,15 @@ Lab: tenant E5 propio (Orsted Corp) para desarrollo y para publicar demos sin ma
 
 ---
 
+## Actividad en GitHub
+
+[![Actividad de José Luis Cruz Prieto en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Joseluiscruz-hub&theme=github-dark&hide_border=true)](https://github.com/Joseluiscruz-hub)
+
+---
+
 <div align="center">
   <p><strong>Convierto procesos rotos en software que sí funciona en operación.</strong></p>
   <p>
-    <a href="mailto:joseluis.cruz@joseluiscruz.me">
-      joseluis.cruz@joseluiscruz.me
-    </a>
+    <a href="mailto:joseluis.cruz@joseluiscruz.me">joseluis.cruz@joseluiscruz.me</a>
   </p>
 </div>
