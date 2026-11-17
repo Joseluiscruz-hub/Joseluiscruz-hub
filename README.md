@@ -123,7 +123,7 @@ si no entra en tolerancia → rollback, no pintar falso verde
 
 
 ¿Necesitas automatizar una conciliación, un control de inventario o un proceso SAP que hoy vive en Excel?  
-[Escríbeme](mailto:joseluis.cruz@joseluiscruz.me) para revisar el proceso.
+[Escríbeme](mailto:joseluis.cruz@jlautomation.page) para revisar el proceso.
 
 ---
 
@@ -155,6 +155,6 @@ Lab: tenant E5 propio (Orsted Corp) para desarrollo y para publicar demos sin ma
 <div align="center">
   <p><strong>Convierto procesos rotos en software que sí funciona en operación.</strong></p>
   <p>
-    <a href="mailto:joseluis.cruz@joseluiscruz.me">joseluis.cruz@joseluiscruz.me</a>
+    <a href="mailto:joseluis.cruz@jlautomation.page">joseluis.cruz@jlautomation.page</a>
   </p>
 </div>
