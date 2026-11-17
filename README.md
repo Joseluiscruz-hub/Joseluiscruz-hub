@@ -8,7 +8,7 @@
   <p>Cuautitlán Izcalli, México · Disponible para remoto, freelance y proyectos industriales</p>
 
   <p>
-    <a href="mailto:joseluis.cruz@joseluiscruz.me"><img src="https://img.shields.io/badge/Email-joseluis.cruz@joseluiscruz.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:joseluis.cruz@jlautomation.page"><img src="https://img.shields.io/badge/Email-joseluis.cruz@jlautomation.page-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <img src="https://img.shields.io/badge/Disponible-Remoto_%26_Freelance-2EA44F?style=for-the-badge" alt="Disponible para remoto y freelance">
     <img src="https://img.shields.io/badge/Enfoque-Operaciones_Industriales-0F766E?style=for-the-badge" alt="Operaciones industriales">
   </p>
