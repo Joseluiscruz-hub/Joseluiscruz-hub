@@ -149,7 +149,7 @@ si no entra en tolerancia → rollback, no pintar falso verde
   Documentación de mensajería NATS JetStream.
 
 - **Quarkus** – [PR #58509](https://github.com/quarkusio/quarkus/pull/58509) *(aprobado, pendiente de merge)*  
-  Fix de la exportación de `import.sql` y del botón Guardar en el Dev UI
+  Fix de la exportación de `import.sql` y del botón Guardar en el Dev UI.
 
 - **wildfly.org** – [PR #962](https://github.com/wildfly/wildfly.org/pull/962) *(abierto)*  
   Tabla de compatibilidad de Java SE para WildFly 37 en adelante.
