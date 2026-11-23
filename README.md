@@ -140,6 +140,22 @@ si no entra en tolerancia → rollback, no pintar falso verde
 
 ---
 
+## Contribuciones Open Source
+
+- **WildFly** – [PR #20500](https://github.com/wildfly/wildfly/pull/20500) *(fusionado)*  
+  Actualización de links en la documentación.
+
+- **Quarkiverse Docs** – [PR #340](https://github.com/quarkiverse/quarkiverse-docs/pull/340) *(fusionado)*  
+  Documentación de mensajería NATS JetStream.
+
+- **Quarkus** – [PR #58509](https://github.com/quarkusio/quarkus/pull/58509) *(aprobado, pendiente de merge)*  
+  Fix de la exportación de `import.sql` y del botón Guardar en el Dev UI
+
+- **wildfly.org** – [PR #962](https://github.com/wildfly/wildfly.org/pull/962) *(abierto)*  
+  Tabla de compatibilidad de Java SE para WildFly 37 en adelante.
+
+---
+
 - **Security research · MSRC 99279:** investigación de más de 10 meses sobre comportamiento de sesión e identidad en Microsoft Entra ID (evidencia de red con pcap y Fiddler). MSRC cerró el caso como *expected behavior* el 4 de diciembre de 2025. No se publican PoC ni materiales sensibles en este perfil.
 
 Lab: tenant E5 propio (Orsted Corp) para desarrollo y para publicar demos sin marca del cliente.
