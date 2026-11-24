@@ -148,7 +148,7 @@ si no entra en tolerancia → rollback, no pintar falso verde
 - **Quarkiverse Docs** – [PR #340](https://github.com/quarkiverse/quarkiverse-docs/pull/340) *(fusionado)*  
   Documentación de mensajería NATS JetStream.
 
-- **Quarkus** – [PR #58509](https://github.com/quarkusio/quarkus/pull/58509) *(aprobado, pendiente de merge)*  
+- **Quarkus** – [PR #58509](https://github.com/quarkusio/quarkus/pull/58509) *(fusionado)*  
   Fix de la exportación de `import.sql` y del botón Guardar en el Dev UI.
 
 - **wildfly.org** – [PR #962](https://github.com/wildfly/wildfly.org/pull/962) *(abierto)*  
